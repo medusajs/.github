@@ -10,6 +10,11 @@
 Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 </p>
 <p align="center">
+  <a href="https://www.producthunt.com/posts/medusa">
+    <img src="https://img.shields.io/badge/Product%20Hunt-%231%20Product%20of%20the%20Day-%23DA552E" alt="Product Hunt">
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/medusajs/medusa/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Medusa is released under the MIT license." />
   </a>
