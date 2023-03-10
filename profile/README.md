@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.medusa-commerce.com">
+  <a href="https://medusajs.com">
     <img alt="Medusa" src="https://user-images.githubusercontent.com/7554214/153162406-bf8fd16f-aa98-4604-b87b-e13ab4baf604.png" width="100" />
   </a>
 </p>
@@ -7,7 +7,7 @@
   Medusa
 </h1>
 <p align="center">
-Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
+  Medusa is a set of commerce modules and tools that enables thousands of developers to create rich and reliable digital commerce applications.
 </p>
 <p align="center">
   <a href="https://www.producthunt.com/posts/medusa">
@@ -17,9 +17,6 @@ Medusa is an open-source headless commerce engine that enables developers to cre
 <p align="center">
   <a href="https://github.com/medusajs/medusa/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Medusa is released under the MIT license." />
-  </a>
-  <a href="https://circleci.com/gh/medusajs/medusa">
-    <img src="https://circleci.com/gh/medusajs/medusa.svg?style=shield" alt="Current CircleCI build status." />
   </a>
   <a href="https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome!" />
@@ -33,5 +30,5 @@ Medusa is an open-source headless commerce engine that enables developers to cre
 </p>
 
 ## Useful links
-[Go to quickstart](https://github.com/medusajs/medusa#-quickstart) • [Medusa Website](https://medusa-commerce.com) • [Company Home (Notion)](https://medusajs.notion.site/medusajs/Medusa-Home-3485f8605d834a07949b17d1a9f7eafd) • [Twitter](https://twitter.com/intent/follow?screen_name=medusajs) • [Docs](https://docs.medusa-commerce.com) • [Join our Discord community](https://discord.gg/xpCwq3Kfn8)
+[Go to quickstart](https://docs.medusajs.com/quickstart/quick-start/) • [Medusa Website](https://medusajs.com) • [Twitter](https://twitter.com/intent/follow?screen_name=medusajs) • [Docs](https://docs.medusajs.com) • [Join our Discord community](https://discord.gg/xpCwq3Kfn8)
 
