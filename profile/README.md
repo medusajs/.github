@@ -11,11 +11,11 @@
   Medusa
 </h1>
 <p align="center">
-  Medusa is a set of commerce modules and tools that enables thousands of developers to create rich and reliable digital commerce applications.
+  Medusa provides modularized commerce logic and tools to orchestrate them into powerful commerce applications.
 </p>
 <p align="center">
-  <a href="https://www.producthunt.com/posts/medusa">
-    <img src="https://img.shields.io/badge/Product%20Hunt-%231%20Product%20of%20the%20Day-%23DA552E" alt="Product Hunt">
+   <a href="https://twitter.com/intent/follow?screen_name=medusajs">
+    <img src="https://img.shields.io/twitter/follow/medusajs.svg?label=Follow%20@medusajs" alt="Follow @medusajs" />
   </a>
 </p>
 <p align="center">
@@ -28,11 +28,8 @@
   <a href="https://discord.gg/xpCwq3Kfn8">
     <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Discord Chat" />
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=medusajs">
-    <img src="https://img.shields.io/twitter/follow/medusajs.svg?label=Follow%20@medusajs" alt="Follow @medusajs" />
-  </a>
 </p>
 
 ## Useful links
-[Go to quickstart](https://docs.medusajs.com/quickstart/quick-start/) • [Medusa Website](https://medusajs.com) • [Twitter](https://twitter.com/intent/follow?screen_name=medusajs) • [Docs](https://docs.medusajs.com) • [Join our Discord community](https://discord.gg/xpCwq3Kfn8)
+[Quickstart](https://docs.medusajs.com/quickstart/quick-start/) • [www](https://medusajs.com) • [X](https://twitter.com/intent/follow?screen_name=medusajs) • [Docs](https://docs.medusajs.com) • [Discord](https://discord.gg/xpCwq3Kfn8)
 
