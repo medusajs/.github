@@ -31,5 +31,5 @@
 </p>
 
 ## Useful links
-[Quickstart](https://docs.medusajs.com/quickstart/quick-start/) • [www](https://medusajs.com) • [X](https://twitter.com/intent/follow?screen_name=medusajs) • [Docs](https://docs.medusajs.com) • [Discord](https://discord.gg/xpCwq3Kfn8)
+[www](https://medusajs.com) • [X](https://twitter.com/intent/follow?screen_name=medusajs) • [Docs](https://docs.medusajs.com) • [Discord](https://discord.gg/xpCwq3Kfn8)
 
